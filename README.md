@@ -37,3 +37,6 @@ v.	To build a profile that will be a channel to future trainings in my career (M
 •	Ask questions/Hungry for knowledge and information
 
 •	Attend workshops and journal meetings
+
+## Roadmap
+Here is a link to my [roadmap](https://github.com/Rodneyomukuti/ICIPE_Bioinformatics-Internship/blob/main/Roadmap.md)
