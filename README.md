@@ -32,9 +32,7 @@ v.	To build a profile that will be a channel to future trainings in my career (M
 
 •	Do all the project presentations and tasks assigned diligently
 
-•	Collaborate with colleagues
-
-:rocket  
+•	Collaborate with colleagues :ROCKET
 
 •	Ask questions/Hungry for knowledge and information
 
