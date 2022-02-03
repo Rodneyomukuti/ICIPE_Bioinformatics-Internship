@@ -34,6 +34,8 @@ v.	To build a profile that will be a channel to future trainings in my career (M
 
 •	Collaborate with colleagues
 
+:rocket  
+
 •	Ask questions/Hungry for knowledge and information
 
 •	Attend workshops and journal meetings
