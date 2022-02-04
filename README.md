@@ -3,18 +3,6 @@
 # Vision
 To apply molecular biology and bioinformatic knowledge in conservation biology
 
-# Skills
-## Short term
-- Communication
-- Problem solving
-- Critical Thinking
-
-## Long term
-- Programming
-- Genomic data analysis
-- Problem Solving
-- Investigative skills
-
  # Objectives
  i.	To understand and apply the basics of programming in genomic research within and outside icipe
  
