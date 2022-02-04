@@ -1,13 +1,18 @@
-# Bioinformatics Internship
+# Bioinformatics Internship Roadmap
 
-•	Maximizing on my time during the stay
+## Short term goals
+To understand the basics of programming as per the different programming languages and apply them in scientific research
 
-•	Be up to date with current and ongoing scientific research
+### Skills to learn
+- communication
+- problem solving
+- Critical thinking
 
-•	Do all the project presentations and tasks assigned diligently
+## Long term goals
+To apply my knowlege in molecular biology and bioinformatics in environmental studies in a bid to conserve biodiversity within and outside the tropical regions
 
-•	Collaborate with colleagues
-
-•	Ask questions/Hungry for knowledge and information
-
-•	Attend workshops and journal meetings
+### Skills to learn
+- Programming
+- Genomic data analysis
+- Problem solving
+- Investigative skills
