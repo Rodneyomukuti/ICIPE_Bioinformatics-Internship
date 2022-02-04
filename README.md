@@ -1,16 +1,16 @@
 # ICIPE_Bioinformatics-Internship
 
 # Vision
-To apply molecular biology and bioinformatic knowledge in conservation biology
+To apply molecular biology and bioinformatics knowledge in conservation biology
 
  # Objectives
  i.	To understand and apply the basics of programming in genomic research within and outside icipe
  
 ii.	To familiarize with the various bioinformatic tools and apply them in conservation research 
 
-iii.	To have a clear understanding of the gaps between conservation biology and genetics – a field which is less exploited. 
+iii.	To have a clear understanding of the gaps between conservation biology and genetics – a field which is less exploited 
 
-iv.	To network and interact with colleagues/scientists in bioinformatics grow together and move genomic research to the next level.
+iv.	To network and interact with colleagues/scientists in bioinformatics grow together and move genomic research to the next level
 
 v.	To build a profile that will be a channel to future trainings in my career (M.Sc/phD)
 
